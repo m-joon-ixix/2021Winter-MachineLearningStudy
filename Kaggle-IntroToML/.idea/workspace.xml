@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="741be1ec-5036-45a8-93c5-4b47b5312ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kaggle-IntroToML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/titanic_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonMLguidebook/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonMLguidebook/chapter1/numpy5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonMLguidebook/chapter1/pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonMLguidebook/chapter1/pandas2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612614272859</updated>
       <workItem from="1612614274059" duration="616000" />
-      <workItem from="1612614905774" duration="4868000" />
+      <workItem from="1612614905774" duration="5635000" />
     </task>
     <servers />
   </component>
