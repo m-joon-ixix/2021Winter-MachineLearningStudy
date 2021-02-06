@@ -1,3 +1,5 @@
 # csv files not to be uploaded to Git
 melb_data.csv
 train.csv
+test.csv
+titanic_submission.csv
